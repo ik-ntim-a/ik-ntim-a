@@ -1,0 +1,5 @@
+- Hi, I’m @ik-ntim-a
+- I am interested in learning more about Data Analysis
+- I am currently learning Excel, SQL, and Power BI for Data Analysis.
+- I plan to re-learn Python and R to improve my skills.
+- Thank you for reading this README. Not everyone reads the README.
