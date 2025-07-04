@@ -1,5 +1,4 @@
-- Hi, I’m @ik-ntim-a
-- I am interested in learning more about Data Analysis
-- I am currently learning Excel, SQL, and Power BI for Data Analysis.
-- I plan to re-learn Python and R to improve my skills.
-- Thank you for reading this README. Not everyone reads the README.
+Hello, my name is Immanuel Ntim-Addae.
+I am interested in pursuing a career in Risk Management within the Insurance industry, but I really love programming and making little data analysis / automation project.
+This Git Hub is dedicated to all my projects. 
+
